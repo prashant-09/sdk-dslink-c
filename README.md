@@ -20,5 +20,10 @@ Execute the following command:
 ## Windows
 ### Requirements
 
--CMake v3.0+
--make sure "msbuild" path is set on system enviornment.
+- CMake v3.0+
+
+- make sure "msbuild" path is set on system enviornment.
+
+```bash
+tools\build.bat
+```
