@@ -18,5 +18,7 @@ Execute the following command:
 ```
 
 ## Windows
+### Requirements
 
-**Coming Soon**
+-CMake v3.0+
+-make sure "msbuild" path is set on system enviornment.
